@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion, useMotionValue, useTransform } from 'framer-motion';
 
 const StudentRow = ({ student, isTopper, onUpdateScore }) => {
