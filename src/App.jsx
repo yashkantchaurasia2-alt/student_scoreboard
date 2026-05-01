@@ -15,9 +15,12 @@ function App() {
       }
     }
     return [
-      { id: 1, name: 'Alice Johnson', score: 85 },
-      { id: 2, name: 'Bob Smith', score: 34 },
-      { id: 3, name: 'Charlie Brown', score: 92 },
+      { id: 1, name: 'Anshi ', score: 95 },
+      { id: 2, name: 'Palak', score: 74 },
+      { id: 3, name: 'Ansh', score: 92 },
+      { id: 4, name: 'Dhruv', score: 78 },
+      { id: 5, name: 'Naman', score: 88 },
+      { id: 6, name: 'Aashi', score: 22 },
     ];
   });
 
